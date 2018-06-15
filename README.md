@@ -20,6 +20,10 @@ In the beginning just google "How to install ______ in Ubuntu 18.04" and follow 
 
 This is an absolutely amazing website to learn a lot about Linux. I'd recommend at least completing the [Getting Started](https://linuxjourney.com/lesson/linux-history), [Command Line](https://linuxjourney.com/lesson/the-shell), [Text-Fu](https://linuxjourney.com/lesson/stdout-standard-out-redirect) and [Packages](https://linuxjourney.com/lesson/software-distribution) modules of the "Grasshopper" section.
 
+### Shell Scripting
+Going through [Command Line](https://linuxjourney.com/lesson/the-shell) and [Text-Fu](https://linuxjourney.com/lesson/stdout-standard-out-redirect) modules of [Linux Journey](https://linuxjourney.com/) is highly recommended before starting this.
+- [Shell Scripting Tutorial](https://www.shellscript.sh/)
+
 ### Learn Python
 - [Learn Python 3 the Hard Way](https://learnpythonthehardway.org/)
 
