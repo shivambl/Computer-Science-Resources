@@ -51,3 +51,6 @@ Learn about more stuff you can do with Python.
 
 ### Network programming in C
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
+
+### GNU Make
+- [Make crash course](https://github.com/ahockersten/makefile_tutorial)
