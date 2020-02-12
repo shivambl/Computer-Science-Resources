@@ -48,3 +48,6 @@ These tasks will help transition into doing projects of your own and will expand
 - [PythonProgramming.net](https://pythonprogramming.net/)
 
 Learn about more stuff you can do with Python.
+
+### Network programming in C
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
